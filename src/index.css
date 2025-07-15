@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Noto+Emoji:wght@300..700&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+*{
+    font-family: "Outfit", sans-serif;
+}
+.emoji {
+    font-family: 'Noto Color Emoji', 'Noto Emoji', sans-serif;
+  }
+@theme{
+    --color-primary: #5044E5;
+}
+
+.reset-tw, .reset-tw * {
+    all: revert !important;
+    font-family: inherit !important;
+    box-sizing: border-box !important;
+}
+
+.cl-drawerRoot{
+    z-index:10;
+}
