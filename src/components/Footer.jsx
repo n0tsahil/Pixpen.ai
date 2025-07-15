@@ -12,7 +12,7 @@ const Footer = () => {
             alt="Logo"
           />
           <p className="mt-6 text-sm">
-          Experience the power of AI with QuickAi. <br />Transform your
+          Experience the power of AI with Pixpen.ai . <br />Transform your
           content creation with our suite of premium AI tools. Write
           articles, generate images, and enhance your workflow.
           </p>
