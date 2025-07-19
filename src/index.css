@@ -11,7 +11,7 @@
     --color-primary: #5044E5;
 }
 
-.reset-tw, .reset-tw * {
+.reset-tw, .reset-tw *{
     all: revert !important;
     font-family: inherit !important;
     box-sizing: border-box !important;
